@@ -1,0 +1,15 @@
+{
+ "argv": [
+  "/Users/rhy/Library/CloudStorage/OneDrive-ArizonaStateUniversity/SelfStudy/Agentic & Gen AI with Cloud/agenticai/bin/python",
+  "-Xfrozen_modules=off",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}

@@ -1,0 +1,13 @@
+prefix=/Users/rhy/Library/CloudStorage/OneDrive-ArizonaStateUniversity/SelfStudy/Agentic & Gen AI with Cloud/agenticai
+exec_prefix=/Users/rhy/Library/CloudStorage/OneDrive-ArizonaStateUniversity/SelfStudy/Agentic & Gen AI with Cloud/agenticai
+libdir=/Users/rhy/Library/CloudStorage/OneDrive-ArizonaStateUniversity/SelfStudy/Agentic & Gen AI with Cloud/agenticai/lib
+sharedlibdir=/Users/rhy/Library/CloudStorage/OneDrive-ArizonaStateUniversity/SelfStudy/Agentic & Gen AI with Cloud/agenticai/lib
+includedir=/Users/rhy/Library/CloudStorage/OneDrive-ArizonaStateUniversity/SelfStudy/Agentic & Gen AI with Cloud/agenticai/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
