@@ -10,3 +10,4 @@ pypdf
 defusedxml
 arxiv
 pymupdf
+wikipedia
