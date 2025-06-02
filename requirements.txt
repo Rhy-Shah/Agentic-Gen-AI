@@ -13,3 +13,4 @@ pymupdf
 wikipedia
 faiss-cpu
 sentence-transformers
+langchain_google_genai
