@@ -11,3 +11,4 @@ defusedxml
 arxiv
 pymupdf
 wikipedia
+faiss-cpu
