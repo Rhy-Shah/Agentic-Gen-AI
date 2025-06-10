@@ -16,3 +16,4 @@ sentence-transformers
 langchain_google_genai
 langchain-pinecone
 youtube-search
+langgraph
