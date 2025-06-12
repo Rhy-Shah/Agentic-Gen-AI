@@ -19,3 +19,4 @@ youtube-search
 langgraph
 langchain_huggingface
 chromadb
+langchain_chromadb
