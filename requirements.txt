@@ -21,3 +21,4 @@ langchain_huggingface
 chromadb
 langchain-chroma
 duckduckgo-search
+yfinance
