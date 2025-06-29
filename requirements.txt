@@ -22,3 +22,6 @@ chromadb
 langchain-chroma
 duckduckgo-search
 yfinance
+langchain_experimental
+matplotlib
+pandas
